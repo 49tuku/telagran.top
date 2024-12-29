@@ -47,9 +47,6 @@
 * 多语言支持，服务端及客户端支持
 * 支持大文件分片上传、剪切板粘贴上传、拖拽上传，进度条显示，图片上传前压缩
 * 支持表格固定列、固定表头、跨页选择、Excel导出、模板渲染等功能
-* 强大的第三方应用模块支持([CMS](https://www.fastadmin.net/store/cms.html)、[博客](https://www.fastadmin.net/store/blog.html)、[知识付费问答](https://www.fastadmin.net/store/ask.html)、[在线投票系统](https://www.fastadmin.net/store/vote.html)、[B2C商城](https://www.fastadmin.net/store/shopro.html)、[B2B2C商城](https://www.fastadmin.net/store/wanlshop.html))
-* 支持CMS、博客、知识付费问答无缝整合[Xunsearch全文搜索](https://www.fastadmin.net/store/xunsearch.html)
-* 第三方小程序支持([CMS小程序](https://www.fastadmin.net/store/cms.html)、[预订小程序](https://www.fastadmin.net/store/ball.html)、[问答小程序](https://www.fastadmin.net/store/ask.html)、[点餐小程序](https://www.fastadmin.net/store/unidrink.html)、[B2C小程序](https://www.fastadmin.net/store/shopro.html)、[B2B2C小程序](https://www.fastadmin.net/store/wanlshop.html)、[博客小程序](https://www.fastadmin.net/store/blog.html))
 * 整合第三方短信接口(阿里云、腾讯云短信)
 * 无缝整合第三方云存储(七牛云、阿里云OSS、又拍云)功能，支持云储存分片上传
 * 第三方富文本编辑器支持(Summernote、Kindeditor、百度编辑器)
@@ -80,7 +77,7 @@ https://demo.fastadmin.net
 
 交流社区: https://ask.fastadmin.net
 
-QQ 1 群（满）、QQ 2 群（满）、QQ 3 群（满）、QQ 4 群（满）、QQ 5 群（满）、QQ 6 群（满）、[QQ 7 群](https://www.fastadmin.net/goto/qun)。
+
 
 Github: https://github.com/karsonzhang/fastadmin
 
